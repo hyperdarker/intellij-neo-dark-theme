@@ -1,0 +1,21 @@
+{
+  "name": "testing",
+  "displayName": "testing",
+  "description": "testing theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "testing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/testing-color-theme.json"
+      }
+    ]
+  }
+}
