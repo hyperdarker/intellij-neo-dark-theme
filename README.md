@@ -1,19 +1,46 @@
-# testing README
+# IntellJ Neo Dark Theme
 
-![Logo Intellij](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/intellij-logo.jpg)
+![Logo Intellij](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/intellij-logo-red.png)
 
+### Theme based on the awesome Intellij's Dark Theme used in the new UI, but only the essentials colors.
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## Screenshot
+## UI Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui-reduced.png)
 
-[Screenshot 1080p](https://)
+Original Screenshot [1080x1920](https://)
 
+## Languages Screenshots
+
+### Javascript
+
+![javascript](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/js.png)
+
+### CSS
+
+![CSS](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/css.png)
+
+
+### HTML
+
+![html](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/html.png)
+
+### Java
+
+![java](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/java.png)
+
+### Python
+
+![python](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/python.png)
+
+### PHP
+
+![php](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/php.png)
+
+### C++
+
+![cpp](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/cpp.png)
+
+### Bash
+
+![bash](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/bash.png)

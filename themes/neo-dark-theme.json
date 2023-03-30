@@ -275,6 +275,7 @@
 		},
 		{
 			"scope": ["support.type.property-name",
+			"variable.language.special.self.python",
 					"constant"],
 			"settings": {
 				"foreground": "#9876AA"

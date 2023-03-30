@@ -1,10 +1,10 @@
 {
   "name": "intellij-neo-dark",
   "displayName": "IntelliJ Neo Dark",
-  "description": "VS Code version of the awesome Intellij's Dark Theme.",
+  "description": "Theme based on the awesome Intellij's Dark Theme used in the new UI",
   "version": "0.0.1",
   "publisher": "hyperdarker",
-  "icon": "./assets/intellij-logo.jpg",
+  "icon": "./assets/intellij-logo-red.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/hyperdarker/intellij-neo-dark-theme.git"
