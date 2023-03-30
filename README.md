@@ -1,5 +1,8 @@
 # testing README
 
+![Logo Intellij](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/intellij-logo.jpg)
+
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
@@ -10,5 +13,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ## Screenshot
 
-![alt](https://)
+![Screenshot](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui-reduced.png)
+
+[Screenshot 1080p](https://)
 
