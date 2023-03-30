@@ -8,7 +8,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui-reduced.png)
 
-Original Screenshot [1080x1920](https://)
+Original Screenshot [1080x1920](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui.png)
 
 ## Languages Screenshots
 
