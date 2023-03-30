@@ -1,14 +1,17 @@
 # IntellJ Neo Dark Theme
 
-![Logo Intellij](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/intellij-logo-red.png)
-
 ### Theme based on the awesome Intellij's Dark Theme used in the new UI, but only the essentials colors.
 
-## UI Screenshot
+## UI Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui-reduced.png)
+![UI Screenshot](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui-reduced.png)
 
 Original Screenshot [1080x1920](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui.png)
+
+![UI Screenshot](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui2-reduced.png)
+
+Original Screenshot [1080x1920](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui2.png)
+
 
 ## Languages Screenshots
 
@@ -44,3 +47,11 @@ Original Screenshot [1080x1920](https://raw.githubusercontent.com/hyperdarker/in
 ### Bash
 
 ![bash](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/bash.png)
+
+
+## Tips
+
+* For a better experience I recommended use and icon's package extension like `JetBrains Icons Enhanced` or `JetBrains Icon Theme`.
+* To hide the breadcrumb set in your json configuration file `"breadcrumbs.enabled": false`.
+
+## If you like this theme or want to give me feedback let me a comment, I like the cats, more the randoms.
