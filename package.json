@@ -2,7 +2,7 @@
   "name": "intellij-neo-dark",
   "displayName": "IntelliJ Neo Dark",
   "description": "Theme based on the awesome Intellij's Dark Theme used in the new UI",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "hyperdarker",
   "icon": "./assets/intellij-logo-red.png",
   "repository": {
