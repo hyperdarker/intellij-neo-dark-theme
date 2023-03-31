@@ -1,8 +1,21 @@
-# IntellJ Neo Dark Theme
+# Neo Dark Theme
 
-### Theme based on the awesome Intellij's Dark Theme used in the new UI, but only the essentials colors.
+Neo Dark is a theme based on the IntelliJ's New UI Dark theme, the idea is to maintain readability, so syntax highlighting is kept to a minimum.
+
+The Icon Theme used in the UI screenshots is [JetBrains Icons Enhanced](https://marketplace.visualstudio.com/items?itemName=BrennonDenny.vsc-jetbrains-icons-enhanced)
+
+You can add some or all of the following lines to your settings.json file to make it look more similar, but it can have its drawbacks.
+```
+    "editor.bracketPairColorization.enabled": false,
+    "breadcrumbs.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "window.titleBarStyle": "custom",
+    "editor.minimap.enabled": false,
+
+```
 
 ## UI Screenshots
+
 
 [
     ![UI Screenshot](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/ui-reduced.png)
@@ -52,11 +65,4 @@
 
 [![json](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/json.png)](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/json.png)
 
-
-## Tips
-
-* For a better experience I recommended use and icon's package extension like [JetBrains Icons Enhanced] or [JetBrains Icon Theme]
-
-* To hide the breadcrumb set in your json configuration file `"breadcrumbs.enabled": false`.
-
-## If you like this theme or want to give me feedback let me a comment, I like the cats, more the randoms.
+## That's it, thanks for using this theme, see you soon.
