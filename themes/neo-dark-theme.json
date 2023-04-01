@@ -1,4 +1,5 @@
 {
+    "$schema": "vscode://schemas/color-theme",
 	"name": "Intellij Neo Dark",
 	"include": "./_ui.json",
 	"colors": {
@@ -15,7 +16,6 @@
 		"titleBar.border": "#1e1f22",
 		"activityBar.border": "#1e1f22",
 		"focusBorder": "#00000000",
-		
 		"foreground": "#cccccc",
 		"selection.background": "#214283",
 		"scrollbar.shadow": "#444447",
@@ -257,6 +257,7 @@
 				"punctuation.definition.parameters.end.bracket.round",
 				"storage.modifier.package",
 				"storage.modifier.import",
+				"support.type.property-name.css",
 				"variable.parameter"],
 			"settings": {
 				"foreground": "#A9B7C6"
@@ -276,6 +277,7 @@
 		{
 			"scope": ["support.type.property-name",
 			"variable.language.special.self.python",
+			"variable.language.this.js",
 					"constant"],
 			"settings": {
 				"foreground": "#9876AA"
@@ -300,24 +302,8 @@
 			}
 		},
 		{
-			"scope": ["storage.modifier",
-			"keyword.control",
-			"storage.type",
-			"entity.name.tag.html",
-			"constant.language",
-			"constant.character.escape",
-			"keyword.other.import",
-			"entity.name.tag",
-			"keyword.other.package",
-			"punctuation.terminator",
-			"punctuation.separator.delimiter",
-			"punctuation.separator.comma"],
-			"settings": {
-				"foreground": "#CC7832"
-			}
-		},{
 			"scope": ["punctuation.definition.annotation",
-				"storage.type.annotation"],
+			"storage.type.annotation"],
 			"settings": {
 				"foreground": "#BBB529"
 			}
@@ -342,6 +328,57 @@
 			"settings": {
 			  "foreground": "#FA5762"
 			}
-		  }
+		},
+		{
+			"scope": ["storage.modifier",
+			"keyword.control",
+			"storage.type",
+			"entity.name.tag.html",
+			"constant.language",
+			"constant.character.escape",
+			"keyword.other.import",
+			"entity.name.tag",
+			"keyword.other.package",
+			"punctuation.terminator",
+			"keyword.other.class.cs",
+			"keyword.other.namespace.cs",
+			"keyword.declaration.dart",
+			"keyword.other.enum.cs",
+			"keyword.other.using.cs",
+			"punctuation.separator.delimiter",
+			"entity.name.type.cpp",
+			"keyword.operator.arrow.cs",
+			"keyword.operator.closure.dart",
+			"punctuation.separator.comma"],
+			"settings": {
+				"foreground": "#CC7832"
+			}
+		},
+		{
+			  "scope": ["meta.function.js",
+			"entity.name.function.python",
+			"meta.function.php",
+			"support.class.dart",
+			"entity.name.function.definition.cpp",
+			"meta.definition.method.js",
+			"meta.definition.class.js",
+			"meta.definition.function.js",
+			"entity.name.type.class",
+			"entity.name.type.enum.cs",
+			"entity.other.attribute-name.id.css",
+			"entity.other.attribute-name.class.css",
+			"entity.other.inherited-class",
+			"entity.name.function.definition.special.constructor.cpp",
+		],
+			"settings": {
+				"foreground": "#FFC66D"
+			}
+		},
+		{
+			"scope": ["variable.language.this.php"],
+			"settings": {
+				"foreground": "#9876AA"
+			}
+		}
 	]
 }
