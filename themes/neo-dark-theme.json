@@ -355,7 +355,7 @@
 			}
 		},
 		{
-			  "scope": ["meta.function.js",
+			  "scope": [
 			"entity.name.function.python",
 			"meta.function.php",
 			"support.class.dart",
