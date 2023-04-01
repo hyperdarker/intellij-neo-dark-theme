@@ -82,11 +82,11 @@ Technically it can work in most languages that support the textmate color scheme
 
 [![php](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/php.png)](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/php.png)
 
-### JSON
+### React
 
 [![react](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/react.png)](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/react.png)
 
-### JSON
+### Flutter
 
 [![flutter](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/flutter.png)](https://raw.githubusercontent.com/hyperdarker/intellij-neo-dark-theme/main/assets/screenshots/flutter.png)
 
